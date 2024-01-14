@@ -1,4 +1,4 @@
-# T2
+# RecruitmentSystem
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/test_git3141626/t2.git
+git remote add origin https://gitlab.com/vogiaminh0802/recruitmentsystem.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/test_git3141626/t2/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/vogiaminh0802/recruitmentsystem/-/settings/integrations)
 
 ## Collaborate with your team
 
