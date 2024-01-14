@@ -24,7 +24,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         ),servers = {
                 @Server (
                         description = "PROD ENV",
-                        url = "https://rcmst.onrender.com"
+                        url = "https://recruiment.azurewebsites.net/"
                 ),
         @Server (
                 description = "LOCAL ENV",
