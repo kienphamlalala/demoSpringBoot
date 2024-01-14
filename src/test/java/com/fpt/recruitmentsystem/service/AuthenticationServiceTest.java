@@ -444,7 +444,7 @@ class AuthenticationServiceTest {
 		Mockito.verify(tokenRepository).findTokenByAccountId(account.getId());
 		Mockito.verify(tokenRepository).save(token);
 		Mockito.verify(mailService).sendActiveAccountLink(email,
-				"http://localhost:3000/verify-email/" + token.getAccountToken());
+				"http://recruitment.ledangminh.id.vn/verify-email/" + token.getAccountToken());
 	}
 
 }
